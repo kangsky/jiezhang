@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Jie Zhang"
+title                    : "Jie Zhang"
 title_separator          : "-"
 name                     : &name "Jie Zhang"
-description              : &description "TODO"
+description              : &description "Ph.D Candidate at Auburn University"
 url                      : https://kangsky.github.io/jiezhang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Jie Zhang"
+  name             : "Jie Zhang"
   avatar           : "profile.png"
-  bio              : "TODO"
+  bio              : ""
   location         : "Auburn, Alabama"
   employer         :
-  googlescholar    : "TODO"
-  email            :
+  googlescholar    :
+  email            : "jzz0045@auburn.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :

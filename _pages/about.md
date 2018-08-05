@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Jie Zhang's home on the web!
-
-Lorem ipsum.
+Welcome to Jie Zhang's home page.

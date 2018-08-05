@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Econimics, Ocean University of China, 2011
-* M.S. in Econimics, Ocean University of China, 2014
-* Ph.D in Econimics, Auburn University, 2019 (expected)
+* B.S. in Economics, Ocean University of China, 2011
+* M.S. in Economics, Ocean University of China, 2014
+* Ph.D in Economics, Auburn University, 2019 (expected)
 
-Work experience
+Research Field
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Labor economics
+* Applied econometrics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching Experience
+======
+* Fall 2015 - Spring 2016: Teaching Assistant of ECON 4600 and 3030
+  * Auburn University
+  * Duties included: Grading, Tutoring
+  * Supervisor: Dr. Richter, Dr. Altindag
+
+* Fall 2016 - present: Instructor of ECON 2020
+  * Auburn University
+  * Duties included: Teaching
+  * Supervisor: N/A
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* STATA
+* Latex
+* Matlab
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

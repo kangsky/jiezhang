@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ======
 * B.S. in Economics, Ocean University of China, 2011
 * M.S. in Economics, Ocean University of China, 2014
